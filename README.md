@@ -3,5 +3,5 @@
 
 • Enter any search query (e.g. breweries Austin Texas)
 
-• Run Python script to automatically extract all data of the results and export to a CSV file
+• Run Python script to automatically extract data of the results and export to a CSV file
 
