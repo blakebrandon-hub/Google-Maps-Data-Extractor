@@ -6,7 +6,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 import time
 import csv
 
-
 search_query = "breweries Austin Texas"
 wait = WebDriverWait(driver, 5)
 
