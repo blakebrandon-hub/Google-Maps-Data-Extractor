@@ -39,14 +39,13 @@ while keepScrolling:
     if(html.find("You've reached the end of the list.") != -1):
         keepScrolling = False
 
-# Append links and business names
+# Append links, business names,and phone numbers
 links = driver.find_elements(By.CLASS_NAME, 'hfpxzc')
 
 for link in links:
 	links_list.append(link.get_attribute('href'))
 	names_list.append(link.get_attribute('aria-label'))
 
-# Append Phone Number
 numbers = driver.find_elements(By.CLASS_NAME, 'UsdlK')
 
 for number in numbers:
