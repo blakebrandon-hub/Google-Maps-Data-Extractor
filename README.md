@@ -1,6 +1,7 @@
 # Google-Maps-Lead-Generator
 
-![lead_generator](https://github.com/blakebrandon-hub/Google-Maps-Lead-Generator/assets/50201165/ac1d3975-c69b-42b0-88ca-96b993d43b21)
+![lead_generator](https://github.com/blakebrandon-hub/Google-Maps-Lead-Generator/assets/50201165/7a8a4f16-1344-4f35-bbbd-115370ec74a3)
+
 
 • Enter any search query (e.g. breweries Austin Texas)
 
