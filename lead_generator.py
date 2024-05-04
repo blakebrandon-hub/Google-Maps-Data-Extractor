@@ -46,7 +46,7 @@ for link in links:
 	links_list.append(link.get_attribute('href'))
 	names_list.append(link.get_attribute('aria-label'))
 
-# Append Phone Numbers
+# Append Phone Number
 numbers = driver.find_elements(By.CLASS_NAME, 'UsdlK')
 
 for number in numbers:
