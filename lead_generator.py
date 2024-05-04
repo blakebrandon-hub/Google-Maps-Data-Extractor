@@ -63,7 +63,7 @@ for i in range(len(links_list)):
 	business_type = wait.until(EC.visibility_of_element_located((By.XPATH, "//button[@class='DkEaL ']")))
 	business_types_list.append(business_type.text)
 
-	# Append Business Rating
+	# Append Rating
 	business_rating = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "ceNzKf")))
 	ratings_list.append(business_rating.get_attribute('aria-label').split(' stars')[0])
 
