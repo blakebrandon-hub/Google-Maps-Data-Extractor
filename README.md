@@ -46,6 +46,10 @@ A Python script that automates the extraction of data from Google Maps search re
 5. **Provide Input:**
    - When prompted, enter your search query (e.g., "breweries in Austin, Texas").
    - The script will process the search results and export the data to a CSV file named `results.csv`.
+  
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
 
 ## ⚠️ Important Notes
 
