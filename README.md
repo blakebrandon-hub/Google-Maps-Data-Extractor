@@ -4,6 +4,8 @@
 
 A Python script that automates the extraction of data from Google Maps search results and exports it to a CSV file.
 
+Note: Google changes their HTML their HTML. When they do this file will need to be edited to function.
+
 ## 🌟 Features
 
 - **Automated Data Extraction:** Input any search query (e.g., "breweries in Austin, Texas") and retrieve relevant data from Google Maps.
