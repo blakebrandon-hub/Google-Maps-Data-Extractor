@@ -4,7 +4,7 @@
 
 A Python script that automates the extraction of data from Google Maps search results and exports it to a CSV file.
 
-Note: Google changes their HTML their HTML. When they do this file will need to be edited to function.
+**Note:** Google changes their HTML. When they do this `lead_generator.py` needs to be updated to function properly.
 
 ## 🌟 Features
 
